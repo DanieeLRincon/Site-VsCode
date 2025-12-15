@@ -44,4 +44,5 @@ creio que poderia ter sido muito melhor, acho que faltou um pouco mais de partic
 pois eu teria muito mais capacidade e conhecimento participando mais das aulas, e como ela disse no começo das aulas, ela gosta muito de dar aula dessa materia "Programação para Web 1". 
 Eu sempre tive problema de timides que me deixa um pouco travado, principalmente para apresentar projetos ou ate mesmo fazer perguntas, creio que depois de passar um ano no quartel,
 esse problema aumentou um pouco mais, mas é um problema que já estou tentando solucionar.
-Outras dificuldades relacionadas ao trabalho foram os calculos, gerenciar a conversão entre string (lida do `data-price`), número decimal (`parseFloat`) e a formatação final para R$ (com vírgula) exigiu atenção para que não ocorrece erro nos cálculos;
+Outras dificuldades relacionadas ao trabalho foram os calculos, gerenciar a conversão entre string (lida do `data-price`), número decimal (`parseFloat`) e a formatação final para R$ (com vírgula) exigiu atenção para que não ocorrece erro nos cálculos.
+Outra dificuldade foi em utilizar essa plataforma do github, essa foi a segunda vez que utilizei, mas so foi assistir um vídeo no youTube que ficou mais claro de que forma posta e pega os links.
