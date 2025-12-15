@@ -38,9 +38,15 @@ Desenvolvimento do Carrinho: Criação das funções: `configurarInteratividade`
 Integração do Pedido: Desenvolvimento da função `coletarDetalhesDoCarrinho` para ler os dados dinâmicos da lista (`<ul>`) e, posteriormente, utilizar essas informações na mensagem de `feedback-envio`.
 
 Facilidades e Dificuldades
+## 🧠 4. Facilidades e Dificuldades (Lições Aprendidas)
 
-Bom, minhas facilidades foram em pensar no projeto em si, mas não saiu exatamente como eu gostaria, eu creio que poderia apresentar um site melhor,  devido ao vasto conhecimento que a professora Nattane nos passou durante as aulas, 
-creio que poderia ter sido muito melhor, acho que faltou um pouco mais de participação e esforço meu durante as aulas, creio que ela orientaria e daria todo apoio necessario, que seria muito bom para apresentar um projeto melhor, 
-pois eu teria muito mais capacidade e conhecimento participando mais das aulas, e como ela disse no começo das aulas, ela gosta muito de dar aula dessa materia "Programação para Web 1". 
-Outras dificuldades relacionadas ao trabalho foram os calculos, gerenciar a conversão entre string (lida do `data-price`), número decimal (`parseFloat`) e a formatação final para R$ (com vírgula) exigiu atenção para que não ocorrece erro nos cálculos.
-Outra dificuldade foi em utilizar essa plataforma do github, essa foi a segunda vez que utilizei, mas so foi assistir um vídeo no youTube que ficou mais claro de que forma posta e pega os links. O vídeo que assitir foi da @larissakich.
+### Facilidades
+
+* **Concepção e Estrutura:** A etapa de planejar o projeto (esboço em HTML) e definir a estrutura geral foi realizada com facilidade, seguindo a metodologia ensinada pela Professora Nattane de priorizar a estrutura (`HTML`) antes da estilização (`CSS`).
+* **Design Rápido:** O uso do framework Bootstrap facilitou a construção de um layout responsivo e a estilização dos componentes (cards e formulário) de forma ágil.
+
+### Dificuldades
+
+* **Lógica de Cálculos e Formatação:** Do ponto de vista técnico, o maior desafio foi gerenciar as conversões de tipos de dados no JavaScript. Gerenciar a conversão entre *string* (lida do atributo `data-price`) para *número decimal* (`parseFloat`) e, em seguida, formatar o resultado final para o padrão monetário brasileiro (R$ com vírgula) exigiu atenção e depuração para garantir a precisão dos cálculos totais.
+* **Utilização do GitHub:** Houve uma dificuldade inicial em utilizar a plataforma GitHub. Apesar de ter sido apenas a segunda interação com a ferramenta, a dúvida sobre o fluxo de envio (`push`), gerenciamento e obtenção dos links (página e repositório) foi resolvida por meio da busca autônoma de conhecimento (especificamente, assistindo ao vídeo da `@larissakich` no YouTube).
+* **Lição Aprendida (Compromisso):** Reconheço que o projeto poderia ter atingido um nível superior de complexidade e refinamento. O vasto e detalhado conhecimento transmitido pela Professora Nattane (IF Goiano – Campus Urutaí), que demonstra grande apreço pela disciplina de "Programação para Web 1", não foi totalmente absorvido devido à minha participação e dedicação aquém do ideal. Fica a lição de que o esforço contínuo e a busca por orientação são cruciais para o sucesso em disciplinas práticas.
