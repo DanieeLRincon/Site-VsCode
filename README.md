@@ -37,16 +37,13 @@ Lógica Básica do DOM (JavaScript): Implementação inicial do botão "Destaque
 Desenvolvimento do Carrinho: Criação das funções: `configurarInteratividade` (para botões `[+]`, `[-]`, `[X]`) e `atualizarTotalCarrinho` (para o cálculo dos bolos pedidos).
 Integração do Pedido: Desenvolvimento da função `coletarDetalhesDoCarrinho` para ler os dados dinâmicos da lista (`<ul>`) e, posteriormente, utilizar essas informações na mensagem de `feedback-envio`.
 
-Facilidades e Dificuldades
-## 🧠 4. Facilidades e Dificuldades (Lições Aprendidas)
+Facilidades
 
-### Facilidades
+Concepção e Estrutura: A etapa de planejar o projeto (esboço em HTML) e definir a estrutura geral foi realizada com facilidade, seguindo a metodologia ensinada pela Professora Nattane de priorizar a estrutura (`HTML`) antes da estilização (`CSS`).
+Design Rápido:** O uso do framework Bootstrap facilitou a construção de um layout responsivo e a estilização dos componentes (cards e formulário) de forma ágil.
 
-* **Concepção e Estrutura:** A etapa de planejar o projeto (esboço em HTML) e definir a estrutura geral foi realizada com facilidade, seguindo a metodologia ensinada pela Professora Nattane de priorizar a estrutura (`HTML`) antes da estilização (`CSS`).
-* **Design Rápido:** O uso do framework Bootstrap facilitou a construção de um layout responsivo e a estilização dos componentes (cards e formulário) de forma ágil.
+Dificuldades
 
-### Dificuldades
-
-* **Lógica de Cálculos e Formatação:** Do ponto de vista técnico, o maior desafio foi gerenciar as conversões de tipos de dados no JavaScript. Gerenciar a conversão entre *string* (lida do atributo `data-price`) para *número decimal* (`parseFloat`) e, em seguida, formatar o resultado final para o padrão monetário brasileiro (R$ com vírgula) exigiu atenção e depuração para garantir a precisão dos cálculos totais.
-* **Utilização do GitHub:** Houve uma dificuldade inicial em utilizar a plataforma GitHub. Apesar de ter sido apenas a segunda interação com a ferramenta, a dúvida sobre o fluxo de envio (`push`), gerenciamento e obtenção dos links (página e repositório) foi resolvida por meio da busca autônoma de conhecimento (especificamente, assistindo ao vídeo da `@larissakich` no YouTube).
-* **Lição Aprendida (Compromisso):** Reconheço que o projeto poderia ter atingido um nível superior de complexidade e refinamento. O vasto e detalhado conhecimento transmitido pela Professora Nattane (IF Goiano – Campus Urutaí), que demonstra grande apreço pela disciplina de "Programação para Web 1", não foi totalmente absorvido devido à minha participação e dedicação aquém do ideal. Fica a lição de que o esforço contínuo e a busca por orientação são cruciais para o sucesso em disciplinas práticas.
+Lógica de Cálculos e Formatação:** Do ponto de vista técnico, o maior desafio foi gerenciar as conversões de tipos de dados no JavaScript. Gerenciar a conversão entre *string* (lida do atributo `data-price`) para *número decimal* (`parseFloat`) e, em seguida, formatar o resultado final para o padrão monetário brasileiro (R$ com vírgula) exigiu atenção e depuração para garantir a precisão dos cálculos totais.
+Utilização do GitHub:** Houve uma dificuldade inicial em utilizar a plataforma GitHub. Apesar de ter sido apenas a segunda interação com a ferramenta, a dúvida sobre o fluxo de envio (`push`), gerenciamento e obtenção dos links (página e repositório) foi resolvida por meio da busca autônoma de conhecimento (especificamente, assistindo ao vídeo da `@larissakich` no YouTube).
+Lição Aprendida: Reconheço que o projeto poderia ter atingido um nível superior de complexidade e refinamento. O vasto e detalhado conhecimento transmitido pela Professora Nattane (IF Goiano – Campus Urutaí), que demonstra grande apreço pela disciplina de "Programação para Web 1", não foi totalmente absorvido devido à minha participação e dedicação aquém do ideal. Fica a lição de que o esforço contínuo e a busca por orientação são cruciais para o sucesso em disciplinas práticas.
