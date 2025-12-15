@@ -1,0 +1,50 @@
+:root {
+    --bs-custom-pink: #F8BBD0; 
+    --bs-custom-brown: #5D4037; 
+}
+
+.bg-custom-pink {
+    background-color: var(--bs-custom-pink) !important;
+}
+
+.bg-custom-brown {
+    background-color: var(--bs-custom-brown) !important;
+}
+
+.text-custom-brown {
+    color: var(--bs-custom-brown) !important;
+}
+
+.btn-custom-brown {
+    background-color: var(--bs-custom-brown);
+    border-color: var(--bs-custom-brown);
+    color: white;
+}
+
+.btn-custom-brown:hover {
+    background-color: #795548; 
+    border-color: #795548;
+}
+
+.btn-custom-pink {
+    background-color: var(--bs-custom-pink);
+    border-color: var(--bs-custom-pink);
+    color: var(--bs-custom-brown);
+}
+
+.btn-custom-pink:hover {
+    background-color: #F48FB1; 
+    border-color: #F48FB1;
+}
+
+body {
+    background-image: url('https://media.istockphoto.com/id/1623639154/pt/foto/tiered-birthday-cake-decorated-with-balloons.jpg?s=2048x2048&w=is&k=20&c=sSepZzWJYPnsCZG_Vn_jD5Ff04q-MYbL576L6Oi9NrU='); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.hero {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    min-height: 50vh; 
+}
